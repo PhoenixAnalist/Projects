@@ -14,4 +14,4 @@
 
 * 7 [Выбор локации для скважины](https://github.com/PhoenixAnalist/Projects)
 
-* 8 [Исследование объявлений о продаже квартир]()
+* 8 [эффективность обогащения](https://github.com/PhoenixAnalist/Projects/tree/main/Эффективность%20обогащения)
