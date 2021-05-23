@@ -22,4 +22,4 @@
 
 * 11 [Компания «Чётенькое такси» спрогнозировать количество заказов](https://github.com/PhoenixAnalist/Projects/tree/main/Такси)
 
-* 12 [Интернет-магазин «Викишоп»]()
+* 12 [Интернет-магазин «Викишоп»](https://github.com/PhoenixAnalist/Projects/tree/main/Интернет-магазин%20«Викишоп»)
